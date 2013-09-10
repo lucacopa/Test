@@ -6,7 +6,7 @@ from xml.dom.minidom import getDOMImplementation
 Created on Aug 29, 2013
 This Script get the instantaneous overall amounts of Production and Task Chain workflows. 
 The amounts are clisefied per status.
-@author: lucacopa
+@author: lucacopa - Luis Contreras
 '''
 
 def getOveralls():
